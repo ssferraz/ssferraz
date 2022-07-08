@@ -1,47 +1,40 @@
-<h3 align="left">Oi, eu sou Samuel Ferraz 👋🏻</h3>
+## Olá! Meu nome é Samuel Ferraz!
 
-###
+- 🏡 Moro em Garanhuns - PE
+- 👩🏻‍🎓 Curso Análise e Desenvolvimento de Sistemas no IFPE - Campus Garanhuns
+- 💻 Tenho aprendido mais sobre desenvolvimento back-end e mobile
+- 👩🏻‍💻 Atualmente focado em C# / .NET
 
-<p align="left">🏡 Moro em Garanhuns - PE<br>👩🏻‍🎓 Curso Análise e Desenvolvimento de Sistemas no IFPE - Garanhuns<br>💻 Tenho aprendido mais sobre desenvolvimento back-end e mobile<br>👩🏻‍💻 Atualmente focado em C# / .NET</p>
-
-###
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=ssferraz&count_private=false&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true"/>
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssferraz&layout=compact&hide_border=true"/>
-    </td>
-  </tr>
-</table>
-
-
-###
-
-<h4 align="center">Linguagens e Ferramentas</h4>
-
-###
+##
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <a href="https://github.com/ssferraz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssferraz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssferraz&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-###
-
-###
-<h3 align="center"> Conecte-se comigo 🤝🏻 </h3>
-
- <div align="center">
-  <a href="https://instagram.com/samuelsferraz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ssf@discente.ifpe.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuelsferraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Sam-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Sam-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Sam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Sam-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"">
+  <img align="center" alt="Sam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Sam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!---<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
+  <img align="center" alt="Sam-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+ 
+  <img align="right" alt="Sam-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/419222425293684748/994828475028484106/download20220705012540.png"> 
+  
 </div>
 
-###
+<img align="right" alt="profile-views" src="https://gpvc.arturio.dev/ssferraz">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ssferraz.ssferraz&"  />
-</div>
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/samuelsferraz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:ssf@discente.ifpe.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/ssferraz/ssferraz/blob/output/github-contribution-grid-snake.svg)
+</div> 
