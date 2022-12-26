@@ -29,8 +29,6 @@
   <img align="center" alt="Sam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!---<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
   <img align="center" alt="Sam-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
- 
-  <img align="right" alt="Sam-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/419222425293684748/994828475028484106/download20220705012540.png"> 
   
 </div>
 
