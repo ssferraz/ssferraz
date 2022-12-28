@@ -2,7 +2,7 @@
 
 - 🏡 Moro em Garanhuns - PE
 - 👩🏻‍🎓 Curso Análise e Desenvolvimento de Sistemas no IFPE - Campus Garanhuns
-- 💻 Tenho mais experiência sobre desenvolvimento back-end e mobile
+- 💻 Tenho mais experiência em desenvolvimento back-end e mobile
 - 👩🏻‍💻 Atualmente focado em C# / .NET
 
 ##
