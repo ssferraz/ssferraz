@@ -29,10 +29,13 @@
   <img align="center" alt="Sam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Sam-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  
 </div>
 
-<img align="right" alt="profile-views" src="https://gpvc.arturio.dev/ssferraz">
+</br>
+
+<div style="display: inline_block">
+    <img align="center" src="https://komarev.com/ghpvc/?username=ssferraz&color=00c4fa" alt="GitHub Profile Views">
+</div>
 
   ##
  
