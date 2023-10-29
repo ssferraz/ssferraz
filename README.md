@@ -30,7 +30,7 @@ class AboutMe:
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"">
  
 ##
-<img align="right" src="https://komarev.com/ghpvc/?username=samuelsferraz&color=00c4fa" alt="GitHub Profile Views">
+<img align="right" src="https://komarev.com/ghpvc/?username=ssferraz&color=00c4fa" alt="GitHub Profile Views">
 
 <div> 
   <a href="https://instagram.com/samuelsferraz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
