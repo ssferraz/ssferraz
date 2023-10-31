@@ -15,7 +15,7 @@ class AboutMe:
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/ssferraz?tab=repositories">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ssferraz&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ssferraz&show_icons=true&theme=merko">
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ssferraz&layout=compact&theme=merko">
 </div>
 
