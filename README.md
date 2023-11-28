@@ -12,13 +12,6 @@ class AboutMe:
  def idioms():
   return ["Portuguese (Fluent)", "English (Intermediary)"]
 ~~~
-
-<div style="display: inline_block"><br>
-  <a href="https://github.com/ssferraz?tab=repositories">
-  <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ssferraz&show_icons=true&theme=merko">-->
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ssferraz&layout=compact&theme=merko">
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
